@@ -11,7 +11,7 @@
 
 ---
 
-<img src="/screenshot.png" width="80">
+<img src="https://github.com/Tatsiana-4/rsschool-2019Q1-cv/blob/gh-pages/screenshot.png" width="80">
 
 > ***"Nothing is imposible, the word itself says " I'm possible "*** – Audrey Hepburn
 
