@@ -1,14 +1,18 @@
 # Tatsiana Charnavokaya
+
 ---
+
  #### Contacts: 
 - E-mail: ***4ernookaya.tanya@gmail.com*** 
 - Tel./Viber/WhatsApp: ***+375291370207***
 - Skype: ***Tanya_Black***
+
 ---
 
 <img src="/screenshot.png" width="80">
 
 > ***"Nothing is imposible, the word itself says " I'm possible "*** – Audrey Hepburn
+
 ---
 
  *The main reason of changing of my professional way is understanding what I really want
