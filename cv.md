@@ -1,8 +1,10 @@
+
 # Tatsiana Charnavokaya
 
 ---
 
- #### Contacts: 
+#### Contacts: 
+
 - E-mail: ***4ernookaya.tanya@gmail.com*** 
 - Tel./Viber/WhatsApp: ***+375291370207***
 - Skype: ***Tanya_Black***
@@ -23,17 +25,21 @@
  As for me this is not general hype “to get into belarusian IT-sphere” for me this is the best
  opportunity to become part of a large international team and the best opportunity to develop myself.*
 
-##### Education: 
+##### Education:
 - 2003-2009 Educational Establishment "Gomel State Medical University”               
+
 ##### Work experience: 
 - 2009-2017 - Doctor in "State Institution Gomel regional center for hygiene, epydemiology and public health". 
 The lead of research group of atmospheric and workspace air. Total number of subordinates is 22 people.
+
 ##### Self education: 
 - [CodeAcademia](https://www.codecademy.com/users/6367190080/achievements), 
 - [HTMLAcademia](https://htmlacademy.ru/profile/id827257/achievements) ,
 - [Course of  Dmitry Trepachov](https://http://phphtml.net/)
+
 ##### Current moment
 - [The Rolling Scopes School](https://school.rollingscopes.com/) 
+
 ##### Level of English: B1
 - English Courses Mr.Language,
 - English courses EnglishAround,
