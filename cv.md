@@ -1,19 +1,22 @@
 # Tatsiana Charnavokaya
-***
+---
  #### Contacts: 
 - E-mail: ***4ernookaya.tanya@gmail.com*** 
 - Tel./Viber/WhatsApp: ***+375291370207***
 - Skype: ***Tanya_Black***
-***
-<img src="/screenshot.png" width="50">
+---
+
+<img src="/screenshot.png" width="80">
+
 > ***"Nothing is imposible, the word itself says " I'm possible "*** – Audrey Hepburn
-***
+---
+
  *The main reason of changing of my professional way is understanding what I really want
  from my life. I want to be around people who can think outside the box, who has a diverse 
  headspace, who moves away from common stereotypes. According to my life, my age and professional
  background I am clearly aware what I must do for achieving my goals. I work hard, I am very
  patient person, careful to details, persistent and I can get knowledge by myself.
-As for me this is not general hype “to get into belarusian IT-sphere” for me this is the best
+ As for me this is not general hype “to get into belarusian IT-sphere” for me this is the best
  opportunity to become part of a large international team and the best opportunity to develop myself.*
 
 ##### Education: 
