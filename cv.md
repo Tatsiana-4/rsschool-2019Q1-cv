@@ -34,7 +34,7 @@ The lead of research group of atmospheric and workspace air. Total number of sub
 ##### Self education: 
 - [CodeAcademia](https://www.codecademy.com/users/6367190080/achievements), 
 - [HTMLAcademia](https://htmlacademy.ru/profile/id827257/achievements) ,
-- [Course of  Dmitry Trepachov](https://http://phphtml.net/)
+- [Course of  Dmitry Trepachov](http://phphtml.net/)
 
 ##### Current moment
 - [The Rolling Scopes School](https://school.rollingscopes.com/) 
