@@ -1,0 +1,231 @@
+@import "./reset.css";
+@import "./fonts.css";
+@import "./slider.css";
+
+body {
+	margin: 0 auto;
+	width: 1020px;
+	font-family: 'Merriweather', serif;
+	font-weight: 500;
+	font-size: 20px;
+	color: rgba(0, 0, 0, 0.7);
+	
+}
+
+header{
+	background:rgba(0, 92, 133, .8);
+
+}
+.container{
+	margin: 0 auto;
+	width: 1020px;
+	box-sizing: border-box;
+	border: 3px solid rgb(128, 128, 128);
+}
+.name {
+	position: relative;
+	width: 100%;	
+	text-align: center;
+}
+
+.name h1{
+	padding: 35px 0 30px;
+	margin: 0 auto;
+	font-size: 30px;
+	text-transform: uppercase;
+	color:rgb(255, 255, 255);	
+}
+main{
+	background: rgba(221, 221, 221, 0.733);
+}
+
+main .container:first-child{
+	position: relative;
+	top: 10px;
+}
+main .container:nth-child(2){
+	margin: 20px auto 10px auto;
+	display: flex;
+	
+}
+main .container:nth-child(3), main .container:nth-child(4){
+	margin: 10px auto;	
+}
+
+.contact{
+	padding: 15px 10px;
+	
+}
+.contact h4{
+	padding: 10px 0;
+	margin: 0 10px;	
+	font-size: 24px;
+	text-transform: capitalize;
+	
+}
+.contact__items{
+	margin: 0 10px;
+}
+.contact__item{
+	padding: 5px 0;
+
+}
+.contact__item a{
+	color: rgba(0, 0, 0, 0.7);
+	text-decoration: none;
+	font-style: italic;
+	font-weight: 500;
+}
+.contact__item img {
+	width: 2%;
+}
+.contact__item img{
+	padding: 0 10px 0 0;
+}	
+
+.contact__item:last-child img{
+	position: relative;
+	top: 3px;	
+}	
+.container hr{	
+	margin: 0 10px;
+	height:2px;
+	background: rgb(128, 128, 128);
+}
+
+
+.blockquote{
+	display: flex;
+	margin: 10px;
+}
+.blockquote img{
+	width: 100px;    
+    
+}
+.blockquote blockquote{
+	text-align: center;
+}
+.blockquote span{
+	
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	font-weight: 400;
+	font-style: italic;	
+}
+.reason{
+	margin: 10px;
+	padding: 10px;
+	
+	line-height: 1.5;
+	text-align: justify;
+}
+.reason p{
+	padding: 10px 15px;
+}
+.wrapper{
+	display: flex;
+	min-height: 310px;
+	margin: 10px;
+	text-align: center;
+}
+.education,
+.work-experience,
+.soft-skill,
+.hard-skill{
+	position: relative;
+	margin: 10px 25px;
+	border: 3px solid rgb(128, 128, 128);
+	display: inline-block;
+	padding: 20px;
+	width: 460px;
+	min-height: 269px;
+	text-align: left;
+}
+
+h5{
+	text-transform: capitalize;
+ font-size: 22px;
+ font-weight: 600;
+ padding: 5px 0;
+ margin: 15px 20px;
+}
+
+main a{
+	text-decoration: none;
+	color:rgba(0, 0, 0, 0.7);
+}
+
+.hard-skill{
+	min-height: 310px;	
+}
+
+.education li,
+.work-experience li,
+.soft-skill li,
+.hard-skill li{
+	margin: 10px 20px;
+	list-style-type: square;
+	line-height: 1.5;
+}
+.education a:hover,
+.work-experience a:hover,
+.soft-skill a:hover,
+.hard-skill a:hover{
+	color: rgb(21, 21, 148);
+	text-decoration: underline;
+	list-style-type: square;
+	line-height: 1.5;
+}
+
+.level{
+	display: inline;
+	position: relative;
+	left:50px;
+	
+	font-size: 12px;
+}
+section.soft-skill  ul:nth-child(4)  li:nth-child(1)  .level{
+	padding: 0 0 0 43px;
+}
+section.soft-skill  ul:nth-child(4)  li:nth-child(2)  .level{
+	padding: 0 0 0 21px;
+}
+section.soft-skill  ul:nth-child(4)  li:nth-child(3)  .level{
+	padding: 0 0 0 24px;
+}
+section.hard-skill  ul:nth-child(2)  li:nth-child(1)  .level{
+	padding: 0 0 0 9px;
+}
+section.hard-skill  ul:nth-child(2)  li:nth-child(2)  .level{
+	padding: 0 0 0 37px;
+}
+section.hard-skill  ul:nth-child(2)  li:nth-child(4)  .level{
+	padding: 0 0 0 22px;
+}
+section.hard-skill  ul:nth-child(4)  li  .level{
+	padding: 0 0 0 27px;
+}
+
+.level li{
+	display: inline-flex;
+    width: 10px;
+    height: 10px;
+    margin: 0;
+	background:rgba(0, 92, 133, .8);
+	border: 1px solid rgb(58, 57, 57);
+    border-radius: 100%;
+    
+}
+.level li:last-child{
+	background: #f1f5f4;
+    
+}
+
+.hard-skill .level li:not(:first-child){
+	background: #f1f5f4;
+}
+
+.hard-skill li:nth-child(3) .level li:nth-child(2),
+.hard-skill li:nth-child(4) .level li:nth-child(2){
+	background:rgba(0, 92, 133, .8);	
+}
