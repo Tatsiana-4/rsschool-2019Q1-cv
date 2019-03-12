@@ -1,0 +1,110 @@
+.wrapper_slider {
+    position: relative;
+    width: 300px;
+	height: 300px;
+    margin: 40px 30px 50px 108px;    
+    border: 3px solid rgb(128, 128, 128);
+}
+
+.slider {
+    position: relative;
+    width: inherit;
+    height: inherit;
+	background-color: #dddddd;	
+	overflow: hidden;	
+}
+
+.wrapper_slider > input {
+	display: none;
+}
+
+.slides {	
+	position: absolute;	
+}
+
+.slide1 { 
+    background-image: url("../images/hepburn.jpg"); 
+    background-size: contain;
+}
+
+.slide2 { 
+    background-image: url("../images/jobs.jpg");
+    background-size: contain;
+}
+
+.slide3 { 
+    background-image: url("../images/lincoln.jpg");
+    background-size: contain;
+}
+
+.slide4 { 
+    background-image: url("../images/einstein.jpg");
+    background-size: contain;
+}
+
+.wrapper_slider .controls {
+    position: absolute;
+	left: 50%;
+	margin-left: -98px;	
+}
+
+.wrapper_slider label {
+    position: relative;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin: 25px 12px 0 16px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.wrapper_slider label:after {
+    content: " ";
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    display: block;
+    width: 12px;
+    height: 12px;
+	border: 2px solid  rgb(128, 128, 128);	
+	border-radius: 50%;
+}
+
+.wrapper_slider label {
+    position: relative;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin: 25px 12px 0 16px;
+    border-radius: 50%;	
+    transition: background ease-in-out .5s;
+	cursor: pointer;	
+}
+
+.wrapper_slider label:hover, 
+#slide1:checked ~ .controls label:nth-of-type(1),
+#slide2:checked ~ .controls label:nth-of-type(2),
+#slide3:checked ~ .controls label:nth-of-type(3),
+#slide4:checked ~ .controls label:nth-of-type(4) {
+	background:rgb(128, 128, 128);
+}
+
+.slides {
+    position: absolute;
+    z-index: 0;
+    width: inherit;
+	height: inherit;
+	opacity: 0;	
+	transform: scale(1.5);
+	transition: transform ease-in-out .5s, opacity ease-in-out .5s;
+}
+
+#slide1:checked ~ .slider > .slide1,
+#slide2:checked ~ .slider > .slide2,
+#slide3:checked ~ .slider > .slide3,
+#slide4:checked ~ .slider > .slide4 {
+	opacity: 1;
+	z-index: 1;
+	transform: scale(1);
+}
+
