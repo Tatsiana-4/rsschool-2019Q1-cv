@@ -1,9 +1,7 @@
 @import "./reset.css";
 @import "./fonts.css";
-@import "./slider.css";
 
-body {
-	
+body {	
 	margin: 0 auto;	
 	font-size: 20px;
 	font-weight: 500;
