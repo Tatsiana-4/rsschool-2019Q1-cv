@@ -59,14 +59,14 @@ main .container:nth-child(4){
 }
 
 .contact h4{
-	margin: 0 50px;
+	margin: 0 100px;
 	padding: 10px 0;		
 	font-size: 24px;
 	text-transform: capitalize;	
 }
 
 .contact__items{
-	margin: 0 50px;
+	margin: 0 100px;
 }
 
 .contact__item{
