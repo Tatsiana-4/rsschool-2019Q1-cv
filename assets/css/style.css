@@ -28,11 +28,17 @@ header{
 }
 
 .name h1{
-	margin: 0 auto;
-	padding: 35px 0 30px;	
-	font-size: 30px;
-	text-transform: uppercase;
-	color:rgb(255, 255, 255);	
+	margin: 20px auto;
+    padding: 20px 0 0px 0px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);	
+}
+.name p{
+	margin: 20px 0 25px;
+	font-size: 21px;
+	text-transform: capitalize;
+	color: rgb(255, 255, 255);    
 }
 
 main{
